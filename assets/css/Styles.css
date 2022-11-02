@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+
+.container{
+    margin-top: 2rem;
+}
+.contenedor{    
+    display: none;
+}
+.contenedorEstado{    
+    display: none;
+}
+.contenedorBool{    
+    display: none;
+}
+.contenedorWork{    
+    display: none;
+}
+.polv{    
+    display: none;
+}
+
+
